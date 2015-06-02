@@ -3,4 +3,10 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_show_post">Show Post</string>
+    <!-- String do Menu -->
+    <string name="btn_home">Home</string>
+    <string name="btn_category">Categorias</string>
+    <!-- Strings da Home -->
+    <string name="welcome">Bem-vindo ao unidroid! Aqui você poderá ver o conteúdo de seu site favorito.</string>
 </resources>
